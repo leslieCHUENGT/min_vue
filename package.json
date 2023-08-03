@@ -5,7 +5,15 @@
   "repository": "https://github.com/leslieCHUENGT/min_vue.git",
   "author": "leslieCHUENGT <1278207976@qq.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
+    "@babel/core": "^7.22.9",
+    "@babel/preset-env": "^7.22.9",
+    "@types/jest": "^29.5.3",
+    "babel-jest": "^29.6.2",
+    "jest": "^29.6.2",
     "typescript": "^5.1.6"
   }
 }
