@@ -1,0 +1,11 @@
+{
+  "name": "min_vue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/leslieCHUENGT/min_vue.git",
+  "author": "leslieCHUENGT <1278207976@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
